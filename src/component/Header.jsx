@@ -29,7 +29,7 @@ const Header = () => {
                 <div className='flex items-center pb-3 gap-4'>
                     <button className=' py-1 font-medium item-center hover:bg-primaryColor hover:text-white ease-in duration-100 border rounded-[9px] px-3 border-solid flex text-smallTextColor text-[17px] gap-2'>
                         <i class="ri-send-plane-line"></i>
-                        <a target='blank' href='https://drive.google.com/file/d/1uCH3KWgq8-9mvV8qGv8e9Ls6v_-rUaZ2/view?usp=drive_link' download='https://drive.google.com/file/d/1uCH3KWgq8-9mvV8qGv8e9Ls6v_-rUaZ2/view?usp=drive_link'>
+                        <a target='blank' href='https://drive.google.com/file/d/109OiI3cuSPN-L_HcHG5BwPc2dAsrnkJ2/view?usp=drive_link' download='https://drive.google.com/file/d/109OiI3cuSPN-L_HcHG5BwPc2dAsrnkJ2/view?usp=drive_link'>
                           Resume
                         </a>
                     </button>
